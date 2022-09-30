@@ -1,6 +1,3 @@
-/** @jsx h */
-import { h } from "preact";
-
 export default function BannerImage() {
   return (
     <figure className="banner-image-wrapper">

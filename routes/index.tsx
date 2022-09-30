@@ -1,9 +1,7 @@
-/** @jsx h */
-import { Fragment, h } from "preact";
-
+import { Fragment } from "preact";
 import { Head } from "$fresh/runtime.ts";
-import BannerImage from "../components/BannerImage.tsx";
-import Video from "../islands/Video.tsx";
+import BannerImage from "@/components/BannerImage.tsx";
+import Video from "@/islands/Video.tsx";
 
 export default function Home() {
   return (
