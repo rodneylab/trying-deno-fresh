@@ -1,5 +1,5 @@
-import { useState } from "preact/hooks";
 import { Button } from "@/components/Button.tsx";
+import { useState } from "preact/hooks";
 
 export default function Video() {
   const [showVideo, setShowVideo] = useState(false);
