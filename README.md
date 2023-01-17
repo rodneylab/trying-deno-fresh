@@ -1,4 +1,4 @@
-<img src="./images/rodneylab-github-trying-deno-fresh.png" alt="Rodney Lab trying-deno-fresh Github banner">
+<img src="../../images/rodneylab-github-trying-deno-fresh.png" alt="Rodney Lab trying-deno-fresh Github banner">
 
 <p align="center">
   <a aria-label="Open Rodney Lab site" href="https://rodneylab.com" rel="nofollow noopener noreferrer">
@@ -8,6 +8,8 @@
 <h1 align="center">
   Trying Deno Fresh
 </h1>
+
+🏡 **I&rsquo;ve just moved to the [rodneylab/deno](https://github.com/rodneylab/deno/tree/main/demos/trying-deno-fresh) repo. See you there!** 👋🏽
 
 # trying-deno-fresh
 
