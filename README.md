@@ -9,7 +9,9 @@
   Trying Deno Fresh
 </h1>
 
-🏡 **I&rsquo;ve just moved to the [rodneylab/deno](https://github.com/rodneylab/deno/tree/main/demos/trying-deno-fresh) repo. See you there!** 👋🏽
+> **Warning**
+> 🏡 **I&rsquo;ve just moved to the [rodneylab/deno](https://github.com/rodneylab/deno/tree/main/demos/trying-deno-fresh) repo. See you there!** 👋🏽
+>
 
 # trying-deno-fresh
 
